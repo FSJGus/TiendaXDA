@@ -1,0 +1,19 @@
+nav{
+  background-color: orange;
+}
+#xdaLogo {
+  position: absolute;
+  top: 33px;
+  left: 30px;
+  color: #fff;
+  font-weight: bold;
+  font-size: larger;
+}
+@keyframes cuadroLogo {
+  0% {
+      transform: rotateX(90deg);
+  }   
+  100% {
+      transform: matrix3d(0deg);
+  }   
+}

@@ -1,0 +1,29 @@
+main{
+  background-color: pink;
+  article{
+    background-color: lightblue;
+  }
+
+}
+
+.cajanewsletter{
+  padding: 10%;
+}
+
+.divpadrerotar{
+  padding-top: 10%;
+}
+
+.divrotar{
+  padding: 0;
+  transform: rotate(90deg);
+
+  p{
+    padding: 0;
+
+  }
+}
+
+.imagenPerfil{
+  background-color: peru;
+}

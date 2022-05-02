@@ -1,0 +1,24 @@
+// main.scs # Manifest File
+
+//abstracts
+@import 'abstracts/variables';
+
+//base
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+
+//components
+@import 'components/buttons';
+@import 'components/inputs';
+
+//layout
+@import 'layout/navigation';
+@import 'layout/header';
+@import 'layout/main-section';
+@import 'layout/footer';
+
+//vendors
+@import 'vendors/scss/bootstrap';
+//pages
+//themes
